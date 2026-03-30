@@ -40,6 +40,7 @@ It demonstrates **CRUD operations**: Create, List, Edit, and Delete tasks.
 ![Delete Task](./screenshots/delete-task.png)  
 
 ## Task 2: Wico
+https://develop.freeschema.com/page-preview/104012800
 **Single Page**  
 ![website ](./screenshots/wico.png)
 
