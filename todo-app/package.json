@@ -1,0 +1,21 @@
+{
+  "name": "todo-app",
+  "private": false,
+  "version": "0.0.0",
+  "description": "To-Do App built with FreeSchema Data Fabric",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --force",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "typescript": "^5.2.2",
+    "vite": "^5.3.1"
+  },
+  "dependencies": {
+    "mftsccs-browser": "^2.1.64-beta"
+  }
+}
+

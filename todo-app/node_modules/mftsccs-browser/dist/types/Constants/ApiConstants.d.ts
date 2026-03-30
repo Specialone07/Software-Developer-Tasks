@@ -1,0 +1,23 @@
+export declare const config: {
+    BASE_URL: string;
+};
+export declare const BASE_URL: string;
+export declare const GetConceptUrl: string;
+export declare const GetConceptBulkUrl: string;
+export declare const GetAllConceptsOfUserUrl: string;
+export declare const GetAllConnectionsOfUserUrl: string;
+export declare const GetAllConnectionsOfCompositionUrl: string;
+export declare const GetAllConnectionsOfCompositionBulkUrl: string;
+export declare const GetConceptByCharacterValueUrl: string;
+export declare const GetConceptByCharacterAndTypeUrl: string;
+export declare const GetCharacterByCharacterUrl: string;
+export declare const GetAllConceptsByTypeUrl: string;
+export declare const GetAllConnectionsOfConceptUrl: string;
+export declare const GetAllAiData: string;
+export declare const GetReservedIdUrl: string;
+export declare const CreateTheTextDataUrl: string;
+export declare const CreateTheCharacterDataUrl: string;
+export declare const CreateTheConceptUrl: string;
+export declare const CreateTheConnectionUrl: string;
+export declare function changeBaseUrl(url: string): void;
+export declare function getBaseUrl(): string;
