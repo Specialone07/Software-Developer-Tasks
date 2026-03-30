@@ -41,7 +41,6 @@ It demonstrates **CRUD operations**: Create, List, Edit, and Delete tasks.
 
 ## Task 2: Wico
 **Single Page**  
-https://develop.freeschema.com/page-preview/104012800
 ![website ](./screenshots/wico.png)
 
 ## Task 3: Business Client Registration
