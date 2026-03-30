@@ -23,15 +23,15 @@ It demonstrates **CRUD operations**: Create, List, Edit, and Delete tasks.
 
 ### Technology Stack
 - **Frontend:** FreeSchema Data Fabric  
-- **Libraries / Tools:** (add if used, e.g., FreeSchema components, Bootstrap)  
+- **Libraries / Tools:** (add if used, e.g., FreeSchema components, css)  
 - **Backend / Storage:** FreeSchema inbuilt storage  
 
 ### Screenshots
 **Add Task**  
-![Add Task](./screenshots/add-task.png)  
+![Add Task](./screenshots/create-task.png)  
 
 **Task List**  
-![Task List](./screenshots/task-list.png)  
+![Task List](./screenshots/list-task.png)  
 
 **Edit Task**  
 ![Edit Task](./screenshots/edit-task.png)  
@@ -39,7 +39,21 @@ It demonstrates **CRUD operations**: Create, List, Edit, and Delete tasks.
 **Delete Task**  
 ![Delete Task](./screenshots/delete-task.png)  
 
-### How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/todo-app.git
+## Task 2: Wico
+**Single Page**  
+https://develop.freeschema.com/page-preview/104012800
+![website ](./screenshots/wico.png)
+
+## Task 3: Business Client Registration
+
+- Successfully registered as a Business Client on A2A Orchestra
+- Explored dashboard and system features
+- Reviewed BoomConsole platform and provided feedback
+
+### Feedback Summary:
+- UI is clean and user-friendly 
+- Navigation is intuitive
+- it is kind of laggy while scrolling
+- Some improvements can be made in performance and CTA clarity (bit confusing)
+**Slow while scrolling**  
+![Lag ](./screenshots/lag.png)
