@@ -25,7 +25,7 @@ It demonstrates **CRUD operations**: Create, List, Edit, and Delete tasks.
 - **Frontend:** FreeSchema Data Fabric  
 - **Libraries / Tools:** (add if used, e.g., FreeSchema components, css)  
 - **Backend / Storage:** FreeSchema inbuilt storage  
-
+**First step is to register and login then complete all the crud operation**
 ### Screenshots
 **Add Task**  
 ![Add Task](./screenshots/create-task.png)  
